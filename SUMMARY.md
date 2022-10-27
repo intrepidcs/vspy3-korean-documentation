@@ -27,7 +27,7 @@
     * [CCP/XCP 데이터베이스 등록](진단-통신udsccpxcp/진단용-데이터베이스-설정/ccpxcp-데이터베이스-등록.md)
   * [진단 통신 변수 모니터링](진단-통신udsccpxcp/진단-통신-변수-모니터링.md)
   * [Diagnostics 메뉴를 이용한 UDS 진단](진단-통신udsccpxcp/diagnostics-메뉴를-이용한-uds-진단.md)
-* [자주 묻는 질문(자주-묻는-질문faq)](자주-묻는-질문faq/README.md)
+* [자주 묻는 질문(FAQ)](자주-묻는-질문faq/README.md)
   * [DBC 파일을 편집하는 방법](자주-묻는-질문faq/dbc-파일을-편집하는-방법.md)
   * [Logging 데이터 통합/분할/맵핑 (VSB Editor)](자주-묻는-질문faq/logging-데이터-통합분할맵핑-vsb-editor.md)
   * [VSB 파일 변환 방법](자주-묻는-질문faq/vsb-파일-변환-방법/README.md)
