@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Vehicle Spy 3 사용자 가이드](README.md)
-* [시작하기](vehicle-spy-3-quick-start/README.md)
-  * [하드웨어 설정](vehicle-spy-3-quick-start/하드웨어-설정.md)
-  * [데이터베이스 플랫폼 생성 및 데이터베이스(.dbc, .ldf, .arxml) 등록](vehicle-spy-3-quick-start/데이터베이스-플랫폼-생성-및-데이터베이스dbc-ldf-arxml-등록.md)
-  * [메세지 모니터링](vehicle-spy-3-quick-start/메세지-모니터링.md)
+* [시작하기](시작하기/README.md)
+  * [하드웨어 설정](시작하기/undefined.md)
+  * [데이터베이스 플랫폼 생성 및 데이터베이스(.dbc, .ldf, .arxml) 등록](시작하기/dbc-ldf-arxml.md)
+  * [메세지 모니터링](시작하기/undefined-1.md)
 * [데이터 로깅](데이터-로깅/README.md)
   * [Messages 메뉴에서 데이터 저장](데이터-로깅/messages.md)
   * [Logging 메뉴에서 신호 저장법](데이터-로깅/logging.md)

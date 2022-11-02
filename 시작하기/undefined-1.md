@@ -2,7 +2,7 @@
 
 실제 CAN 메세지를 보는 방법과 해당 화면의 기본적인 기능을 설명 드리겠습니다. 왼쪽 윗부분의 Offline 옆에 있는 아래로 향하는 화살표를 누른 후 _Run with Transmit_을 클릭하면 실시간으로 값을 확인할 수 있는 상태 (Online)가 됩니다.
 
-이 때 아래와 같은 경고 창이 뜰 수 있는데, 장비의 Baud Rate을 알맞게 설정하셨다면([하드웨어 설정](하드웨어-설정.md) 참고) 아래 화면에서 _Use Hardware Baud Rates_를 눌러줍니다.
+이 때 아래와 같은 경고 창이 뜰 수 있는데, 장비의 Baud Rate을 알맞게 설정하셨다면([하드웨어 설정](undefined.md) 참고) 아래 화면에서 _Use Hardware Baud Rates_를 눌러줍니다.
 
 <figure><img src="../.gitbook/assets/Networks (1).png" alt=""><figcaption></figcaption></figure>
 
