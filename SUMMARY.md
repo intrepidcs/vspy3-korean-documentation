@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Vehicle Spy 3 Manual(KOR)](README.md)
-* [Vehicle Spy 3 Quick Start](vehicle-spy-3-quick-start/README.md)
+* [Vehicle Spy 3 사용자 가이드](README.md)
+* [시작하기](vehicle-spy-3-quick-start/README.md)
   * [하드웨어 설정](vehicle-spy-3-quick-start/하드웨어-설정.md)
   * [데이터베이스 플랫폼 생성 및 데이터베이스(.dbc, .ldf, .arxml) 등록](vehicle-spy-3-quick-start/데이터베이스-플랫폼-생성-및-데이터베이스dbc-ldf-arxml-등록.md)
   * [메세지 모니터링](vehicle-spy-3-quick-start/메세지-모니터링.md)
@@ -17,7 +17,7 @@
 * [신호 분석](undefined/README.md)
   * [실시간 신호 값 보기](undefined/undefined.md)
   * [실시간 신호 그래프 보기](undefined/undefined-1.md)
-* [송·수신 메세지 사용법](undefined-1/README.md)
+* [메세지 송수신](undefined-1/README.md)
   * [수신 메세지 생성 및 DBC 파일 생성](undefined-1/dbc.md)
   * [송신 메세지 보내는 방법](undefined-1/undefined.md)
   * [메세지 데이터 저장 파일 송신(Playback)](undefined-1/playback.md)
