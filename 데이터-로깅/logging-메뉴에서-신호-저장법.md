@@ -1,6 +1,6 @@
 # Logging 메뉴에서 신호 저장법
 
-PC에서 설정하신 신호만 저장하는 방법에 관한 내용으로써 먼저 Measurement -> Logging으로 이동합니다.  ![](<../.gitbook/assets/Select Signals.png>)버튼을 클릭하면 아래와 같은 창이 나오게 됩니다.
+PC에서 설정하신 신호만 저장하는 방법에 관한 내용으로써 먼저 _Measurement -> Logging_으로 이동합니다.  ![](<../.gitbook/assets/Select Signals.png>)버튼을 클릭하면 아래와 같은 창이 나오게 됩니다.
 
 <figure><img src="../.gitbook/assets/EnterSingals.png" alt=""><figcaption></figcaption></figure>
 
