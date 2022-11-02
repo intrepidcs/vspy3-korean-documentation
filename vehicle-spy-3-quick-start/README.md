@@ -4,4 +4,4 @@
 
 <figure><img src="../.gitbook/assets/2020-01-02-13-08-49.png" alt="Tools > Options > License 탭"><figcaption><p>Tools > Options > License 탭</p></figcaption></figure>
 
-라이센스 관련 문의 사항이 있으시다면 [기술 지원](../기술-지원.md)팀에 연락주시기 바랍니다.
+라이센스 관련 문의 사항이 있으시다면 [기술 지원](../undefined-2.md)팀에 연락주시기 바랍니다.
