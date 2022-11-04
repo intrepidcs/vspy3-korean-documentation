@@ -8,5 +8,5 @@ _Messages_ 메뉴에서 수신되는 메세지는 메뉴 좌측에 막대로 표
 2. Save 버튼을 눌러 버퍼 공간에 쌓인 메세지를 저장합니다. vsb, csv, blf, pcap 등의 형식을 지원합니다.
 3. 우측 상단의 _Data_ 버튼을 누르면 데이터 저장 경로가 열립니다.
 
-<figure><img src="../.gitbook/assets/2022-02-03-16-30-45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2022-02-03-16-30-45 (1).png" alt=""><figcaption></figcaption></figure>
 
