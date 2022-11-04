@@ -2,8 +2,8 @@
 
 어플리케이션에 따라 원하는 설정으로 메세지를 로깅할 수 있는 기능입니다.
 
-1. Scripting and Automation->Function Blocks 메뉴 좌측 상단의![](../.gitbook/assets/2022-01-06-17-20-02.png)버튼을 누르고 Capture를 선택하여 Capture Function Block을 생성합니다.
-2. Buffer탭에서 Filters… 버튼을 눌러 내가 원하는 메세지만 선택하여 받을 수 있습니다. (모든 데이터를 저 장할 때에는 설정할 필요는 없습니다.) Filters... 사용은 [메세지 모니터링](../시작하기/undefined-1.md)의 커스텀 필터 설정 부분을 참조하시기 바랍니다.
+1. Scripting and Automation->Function Blocks 메뉴 좌측 상단의![](<../.gitbook/assets/2022-01-06-17-20-02 (1).png>)버튼을 누르고 Capture를 선택하여 Capture Function Block을 생성합니다.
+2. Buffer탭에서 Filters… 버튼을 눌러 내가 원하는 메세지만 선택하여 받을 수 있습니다. (모든 데이터를 저 장할 때에는 설정할 필요는 없습니다.) Filters... 사용은 [메세지 모니터링](../시작하기/메세지-모니터링.md)의 커스텀 필터 설정 부분을 참조하시기 바랍니다.
 3. Start탭에서 로깅 시작 시점을 설정합니다.
 
 <figure><img src="../.gitbook/assets/Capture-Start.png" alt=""><figcaption></figcaption></figure>
