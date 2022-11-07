@@ -14,7 +14,7 @@
 
 <figure><img src="../.gitbook/assets/Capture-StartExpression (1).png" alt=""><figcaption></figcaption></figure>
 
-* Start Immediately Embedded Only: 장비에 직접 이 Function Block을 넣은 후 장비에서만 전원이 들어 왔 을 때 바로 동작하는 방식(PC에서는 동작하지 않음) ‘Manual Start’에서 직접 동작을 시키는 방법에는 아 래처럼 시작 버튼과 멈추는 버튼을 눌러서 직접 제어할 수 있고 ‘Start/Stop Hotkey’를 이용하여 해당 키 를 눌러서 제어하거나 ‘Graphical Panels’에서 제어하는 방법이 있습니다.
+* Start Immediately Embedded Only: 장비에 직접 이 Function Block을 넣은 후 장비에서만 전원이 들어 왔 을 때 바로 동작하는 방식(PC에서는 동작하지 않음) ‘Manual Start’에서 직접 동작을 시키는 방법에는 아래처럼 시작 버튼과 멈추는 버튼을 눌러서 직접 제어할 수 있고 ‘Start/Stop Hotkey’를 이용하여 해당 키 를 눌러서 제어하거나 ‘Graphical Panels’에서 제어하는 방법이 있습니다.
 
 <figure><img src="../.gitbook/assets/FunctionBlocks-Playback.png" alt=""><figcaption></figcaption></figure>
 
