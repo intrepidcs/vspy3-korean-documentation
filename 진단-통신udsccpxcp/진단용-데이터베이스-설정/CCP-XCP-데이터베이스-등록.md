@@ -8,4 +8,5 @@ CAN Calibration Protocol(CCP) 또는 Universal Calibration Protocol(XCP) 진단 
 
 <figure><img src="../../.gitbook/assets/2022-01-07-11-42-36.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;4\. 파일 등록이 끝났으면 빨간색 박스가 깜빡 거리는 ![](<../../.gitbook/assets/2022-01-04-16-24-53 (1) (2).png>)버튼 또는 ![](<../../.gitbook/assets/2022-01-04-16-25-23 (1) (1).png>)를 눌러 플랫폼 설정을 저장합니다.
+&#x20;4\. 파일 등록이 끝났으면 빨간색 박스가 깜빡 거리는 ![](<../../.gitbook/assets/2022-01-04-16-24-53 (1) (2).png>)버튼 또는 ![](<../../.gitbook/assets/2022-01-04-16-25-23 (1) (1).png>)를 눌러 플랫폼 설정\
+&#x20;    을 저장합니다.
