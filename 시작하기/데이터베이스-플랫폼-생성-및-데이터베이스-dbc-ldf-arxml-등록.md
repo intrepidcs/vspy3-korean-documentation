@@ -15,14 +15,17 @@
 
 <figure><img src="../.gitbook/assets/2022-01-04-16-21-27 (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20; 6\. LIN 통신을 사용하는 경우, 좌측에서 사용할 LIN 채널 선택 후 _Browse..._ 버튼을 눌러 .ldf 파일을 등록합니다.&#x20;
+&#x20; 6\. LIN 통신을 사용하는 경우, 좌측에서 사용할 LIN 채널 선택 후 _Browse..._ 버튼을 눌러 .ldf 파일을 등록\
+&#x20;     합니다.&#x20;
 
 <figure><img src="../.gitbook/assets/2022-01-04-16-30-31.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;  7\. ARXML 파일을 가지고 계신 경우, 상단의 _ARXML/UEF/VSDB Support_ 탭에서 _ARXML.._ 버튼을 눌러 등록합니다.
+&#x20;  7\. ARXML 파일을 가지고 계신 경우, 상단의 _ARXML/UEF/VSDB Support_ 탭에서 _ARXML.._ 버튼을 눌러\
+&#x20;     등록합니다.
 
 <figure><img src="../.gitbook/assets/2022-01-06-17-44-46.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;  8\. 파일 등록이 끝났으면 빨간색 박스가 깜빡는 ![](<../.gitbook/assets/2022-01-04-16-24-53 (2).png>) 버튼 또는 ![](<../.gitbook/assets/2022-01-04-16-25-23 (1).png>)를 눌러 플랫폼 설정을 저장합니다.
+&#x20;  8\. 파일 등록이 끝났으면 빨간색 박스가 깜빡는 ![](<../.gitbook/assets/2022-01-04-16-24-53 (2).png>) 버튼 또는 ![](<../.gitbook/assets/2022-01-04-16-25-23 (1) (2).png>)를 눌러 플랫폼 설정을\
+&#x20;      저장합니다.
 
 데이터베이스 등록 이후에는 _Spy Networks->Messages Editor_ 메뉴의 _Database_ 탭에서 등록한 데이터베이스에 정의된 내용을 확인할 수 있습니다. 이 메뉴는 읽기 전용으로 데이터베이스 편집을 원하시면 [DBC 파일을 편집하는 방법](../자주-묻는-질문\(FAQ\)/DBC-파일을-편집하는-방법.md)를 참고하시기 바랍니다.

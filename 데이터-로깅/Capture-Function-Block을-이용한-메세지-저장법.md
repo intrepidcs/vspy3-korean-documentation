@@ -22,7 +22,7 @@
 * Start Immediately Embedded Only: 장비에 이 Capture Function Block을 이식한 후에 장비 전원이 들어 왔을 때 바로 동작하는 방식 (PC에서는 동작하지 않음)
 
 &#x20; 4\. Stop and Trigger탭에서 로깅 정지 시점 또는 트리거 시점을 설정합니다. 각 항목의 의미하는 바는 \
-&#x20;     다음과 같습니다
+&#x20;     다음과 같습니다.
 
 * Collect in a circular buffer: ‘Messages’ 창에서 저장하는 것처럼 링 버퍼를 사용하여 ‘Buffer Size’의 크기 만큼 최근 메세지가 저장 됩니다. (즉, 50000으로 설정을 했을 때 최근에 들어온 메세지 50000개만 저장 이 됩니다.)
 * Collect in a one-shot buffer: 메세지 저장이 시작된 이후 해당 설정 크기까지만 저장이 됩니다.
@@ -33,7 +33,7 @@
 
 <figure><img src="../.gitbook/assets/Capture-Storage.png" alt=""><figcaption></figcaption></figure>
 
-위 4가지 설정을 하셨으면 Online하셔서 원하시는 설정으로 데이터를 저장하시면 되고 저장된 경로는 우측 상 단의 버튼을 클릭하시면 해당 경로가 나오게 됩니다.
+위 4가지 설정을 하셨으면 Online하셔서 원하시는 설정으로 데이터를 저장하시면 되고 저장된 경로는 우측 상단의 ![](../.gitbook/assets/2022-02-03-15-04-05.png)버튼을 클릭하시면 해당 경로가 나오게 됩니다.
 
 {% hint style="info" %}
 **주로 많이 사용하는 저장 설정 (장기간 PC 에서 메세지 저장을 할 때)**
