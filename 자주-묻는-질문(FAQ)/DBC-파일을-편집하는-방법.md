@@ -7,7 +7,7 @@ Vehicle Spy를 통해 가지고 계신 DBC의 정보를 수정 후 새로운 dbc
 
 ![MessagesEditor-Database](../.gitbook/assets/MessagesEditor-Database.png)
 
-&#x20; 3\. Shift+클릭을 이용해 데이터 베이스 메세지를 전체 선택 한 후 마우스 우클릭 Copy To Receive를 선택\
+&#x20; 3\. Shift+클릭을 이용해 데이터 베이스 메세지를 전체 선택한 후 마우스 우클릭 Copy To Receive를 선택\
 &#x20;     합니다.
 
 ![CopyToReceive](../.gitbook/assets/2021-10-14-10-26-34.png)
