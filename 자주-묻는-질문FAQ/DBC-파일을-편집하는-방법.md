@@ -7,11 +7,13 @@ Vehicle Spy를 통해 가지고 계신 DBC의 정보를 수정 후 새로운 dbc
 
 ![MessagesEditor-Database](../.gitbook/assets/MessagesEditor-Database.png)
 
-&#x20; 3\. Shift+클릭을 이용해 데이터 베이스 메세지를 전체 선택한 후 마우스 우클릭 Copy To Receive를 선택합니다.
+&#x20; 3\. Shift+클릭을 이용해 데이터 베이스 메세지를 전체 선택한 후 마우스 우클릭 Copy To Receive를 선택\
+&#x20;     합니다.
 
 ![CopyToReceive](../.gitbook/assets/2021-10-14-10-26-34.png)
 
-&#x20; 4\. Receive 탭으로 이동 후 복제된 메세지들을 원하시는 대로 수정합니다. 수정 방법은 [여기](DBC-파일을-편집하는-방법.md#41-수신-메세지-생성-및-dbc-파일-생성)를 참고하시기 바랍니다.
+&#x20; 4\. Receive 탭으로 이동 후 복제된 메세지들을 원하시는 대로 수정합니다. 수정 방법은 [여기](DBC-파일을-편집하는-방법.md#41-수신-메세지-생성-및-dbc-파일-생성)를 참고하시\
+&#x20;     기 바랍니다.
 
 ![MessagesEditor-Receive](../.gitbook/assets/2021-10-14-10-31-12.png)
 
