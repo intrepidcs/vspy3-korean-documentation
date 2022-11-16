@@ -6,4 +6,4 @@
 2. 원하는 파일 형식을 _Signal Data_나 _Message Data_에서 선택합니다. _Signal Data_를 선택 시 오른쪽 화면에서 원하는 신호를 선택적으로 내보낼 수 있습니다.
 3. _Export_ 버튼을 누르면 _Output Directory_ 경로에 지정된 형식으로 파일이 저장됩니다. _View Output Directory_ 버튼을 눌러 저장 경로를 열 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/Export (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Export (1) (1).png" alt=""><figcaption><p>Tools->Extract/Export->Export 탭</p></figcaption></figure>
